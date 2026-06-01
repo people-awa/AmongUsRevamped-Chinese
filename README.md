@@ -6,7 +6,7 @@
 ```
 ### Among Us Revamped 漢化以及介紹-哔哩哔哩 https://b23.tv/wM9ZvDm
 
-您的Among us 文件必须在对应的位置否则可能加载失败
+您的Among us 文件必须在对应的位置否则可能加载失败(改文件夹需要启动一次among us才能生存awa）
 
 ## 确保您的文件完好无损并且.json文件必须是English.json 不然读取不到！
 
