@@ -24,5 +24,5 @@
 - 代码:这是名字awa
 - 视频剪辑:这是名字awa
 - 账户创建：芙酱awa
-- 这是名字awaB站个人主页: https://b23.tv/cosYD0s
-- 芙酱awaB站个人主页: https://b23.tv/tIyVPrq
+- 这是名字awa的B站个人主页: https://b23.tv/cosYD0s
+- 芙酱awa的B站个人主页: https://b23.tv/tIyVPrq
