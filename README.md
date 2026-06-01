@@ -1,6 +1,7 @@
 # Among Us Revamped 汉化包
 
 ## 此汉化包的使用教程可在b站知道或者通过此链接进入
+
 ###【Among Us Revamped 漢化以及介紹-哔哩哔哩】 https://b23.tv/wM9ZvDm
 
 您的Among us 文件必须在对应的位置否则可能加载失败
